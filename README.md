@@ -1,0 +1,1 @@
+# rs_bounty_quests_version
